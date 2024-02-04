@@ -1,11 +1,9 @@
 module.exports = {
-  title: "uBlog",
+  title: "parityday@vlt.ge Ncodes",
   description:
-    "A minimalist blog on nostr that allows anyone to easily create their own personal micro-blog.",
-  favicon:
-    "https://upload.wikimedia.org/wikipedia/commons/0/0b/Greek_lc_mu.svg",
-  logo: "https://upload.wikimedia.org/wikipedia/commons/0/0b/Greek_lc_mu.svg",
-  npub: "npub1hk08saqjqxj0u98vjyeh8rd7n3828wh60wsf74nwkjexwlg22x6q4acuqq",
+    "Every NIP-05 is a Unique expression of individuality.",
+favicon:     "https://image.nostr.build/9a4f2624c691966b800b5724f6232fdbfc5f1ac9fa3f02b3ef6a7febb3faf70c.jpg", logo: "https://image.nostr.build/00b64f635fc23924690443924c3562698125faebfce7dad4f015e117c6508406.gif",
+  npub: "npub16d8gxt2z4k9e8sdpc0yyqzf5gp0np09ls4lnn630qzxzvwpl0rgq5h4rzv",
   themes: [
     "light",
     "dark",
