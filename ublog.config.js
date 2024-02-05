@@ -53,6 +53,7 @@ favicon:     "https://image.nostr.build/9a4f2624c691966b800b5724f6232fdbfc5f1ac9
   relays: [
     "wss://relay.snort.social",
     "wss://atlas.nostr.land",
+    "wss://lnp2prelaytt.sigmaenterprisesltd.com",
     "wss://relay.orangepill.dev",
     "wss://nostr-pub.wellorder.net",
     "wss://relay.damus.io",
