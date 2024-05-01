@@ -2,7 +2,7 @@ module.exports = {
   title: "parityday@vlt.ge Ncodes",
   description:
     "Every NIP-05 is a Unique expression of individuality.",
-favicon:     "https://image.nostr.build/9a4f2624c691966b800b5724f6232fdbfc5f1ac9fa3f02b3ef6a7febb3faf70c.jpg", logo: "https://image.nostr.build/00b64f635fc23924690443924c3562698125faebfce7dad4f015e117c6508406.gif",
+favicon: "https://serve-model-sd-outputs.s3.amazonaws.com/e05a3789-23d0-4358-883b-f91553a7b76c.png", logo: "https://image.nostr.build/00b64f635fc23924690443924c3562698125faebfce7dad4f015e117c6508406.gif",
   npub: "npub16d8gxt2z4k9e8sdpc0yyqzf5gp0np09ls4lnn630qzxzvwpl0rgq5h4rzv",
   themes: [
     "light",
@@ -59,12 +59,12 @@ favicon:     "https://image.nostr.build/9a4f2624c691966b800b5724f6232fdbfc5f1ac9
     "wss://relay.damus.io",
     "wss://nos.lol",
     "wss://nostr.wine",
-    // "wss://nostr.nostrelay.org",
-    // "wss://relay.nostr.ch",
-    // "wss://nostr.bitcoiner.social",
-    // "wss://nostr.onsats.org",
-    // "wss://nostr-relay.wlvs.space",
-    // "wss://nostr.zebedee.cloud",
-    // "wss://relay.nostr.info",
+     "wss://nostr.nostrelay.org",
+     "wss://relay.nostr.ch",
+     "wss://nostr.bitcoiner.social",
+     "wss://nostr.onsats.org",
+     "wss://nostr-relay.wlvs.space",
+     "wss://nostr.zebedee.cloud",
+     "wss://relay.nostr.info",
   ],
 };
