@@ -1,7 +1,6 @@
 module.exports = {
   title: "parityday@vlt.ge Ncodes",
   description:"Every NIP-05 is a Unique expression of individuality.",
-  logo:"https://image.nostr.build/ab420a445188a68e5fabe711cb0a6170cf7c35639abbe1f757ae01118557229a.gif"
 favicon: "https://image.nostr.build/thumb/31c4955dc0073f61b12b88e23b69cdb81046ab5b11df15f1acb8b4dd4e2d7070.gif", logo: "https://image.nostr.build/00b64f635fc23924690443924c3562698125faebfce7dad4f015e117c6508406.gif",
   npub: "npub16d8gxt2z4k9e8sdpc0yyqzf5gp0np09ls4lnn630qzxzvwpl0rgq5h4rzv",
   themes: [
