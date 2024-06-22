@@ -50,21 +50,11 @@ favicon: "https://image.nostr.build/thumb/31c4955dc0073f61b12b88e23b69cdb81046ab
     },
   ],
   relays: [
-    "wss://relay.snort.social",
-    "wss://atlas.nostr.land",
-    "wss://lnp2prelaytt.sigmaenterprisesltd.com",
-    "wss://relay.orangepill.dev",
-    "wss://nostr-pub.wellorder.net",
-    "wss://relay.damus.io",
-    "wss://nos.lol",
-    "wss://nostr.wine",
-     "wss://nostr.nostrelay.org",
-     "wss://relay.nostr.ch",
-     "wss://nostr.bitcoiner.social",
-     "wss://nostr.onsats.org",
-     "wss://nostr-relay.wlvs.space",
-     "wss://nostr.zebedee.cloud",
-     "wss://relay.nostr.info",
-     "wss://libretechsystems.nostr1.com"
+        "wss://nos.lol",
+        "wss://relay.damus.io",
+        "wss://nostr.nostrelay.org",
+        "wss://atlas.nostr.land",
+        "wss://relay.nostr.info",
+        "wss://libretechsystems.nostr1.com"
   ],
 };
