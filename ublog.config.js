@@ -55,6 +55,6 @@ favicon: "https://image.nostr.build/thumb/31c4955dc0073f61b12b88e23b69cdb81046ab
         "wss://atlas.nostr.land",
         "wss://relay.nostr.band",
         "wss://libretechsystems.nostr1.com",
-        "wss://relay.damus.io",
+        "wss://relay.damus.io"
   ],
 };
