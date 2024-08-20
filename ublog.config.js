@@ -51,7 +51,6 @@ favicon: "https://image.nostr.build/thumb/31c4955dc0073f61b12b88e23b69cdb81046ab
   ],
   relays: [
         "wss://nos.lol"
-        "wss://relay.damus.io",
         "wss://nostr.nostrelay.org",
         "wss://atlas.nostr.land",
         "wss://relay.nostr.band",
