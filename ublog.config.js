@@ -1,6 +1,6 @@
 module.exports = {
-  title: "parityday@vlt.ge Ncodes",
-  description:"Every NIP-05 is a Unique expression of individuality.",
+  title: "npub16d8gxt2z4k9e8sdpc0yyqzf5gp0np09ls4lnn630qzxzvwpl0rgq5h4rzv LibreRelayTech's U-Blog",
+  description:"HODLing in Sovereignity and Decentralized P2P Circular Ecosystems.",
 favicon: "https://image.nostr.build/thumb/31c4955dc0073f61b12b88e23b69cdb81046ab5b11df15f1acb8b4dd4e2d7070.gif", logo: "https://image.nostr.build/00b64f635fc23924690443924c3562698125faebfce7dad4f015e117c6508406.gif",
   npub: "npub16d8gxt2z4k9e8sdpc0yyqzf5gp0np09ls4lnn630qzxzvwpl0rgq5h4rzv",
   themes: [
@@ -52,8 +52,8 @@ favicon: "https://image.nostr.build/thumb/31c4955dc0073f61b12b88e23b69cdb81046ab
   relays: [
         "wss://relay.damus.io",
         "wss://nos.lol",
-        "wss://atlas.nostr.land",
+        "wss://relay.primal.net",
         "wss://relay.nostr.band",
-        "wss://libretechsystems.nostr1.com/",
+        "wss://lunchbox.sandwich.farm/",
   ],
 };
